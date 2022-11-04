@@ -1,0 +1,14 @@
+
+.container.flex{
+    display: grid;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.container {
+    height: 100vh;
+}
+
+.alert {
+    align-self: center;
+}
